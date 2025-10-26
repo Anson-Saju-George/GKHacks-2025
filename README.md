@@ -57,7 +57,7 @@ GEMINI_API_KEY=your_api_key_here
 npm run dev
 ```
 
-Open the app at the address Vite prints (typically http://localhost:5173).
+Open the app at the address Vite prints (typically http://localhost:5173 or http://localhost:3000).
 
 ## Development notes
 - The UI is componentized under `components/`. To add a feature, add or extend a component and update `App.tsx` to wire props/state.
