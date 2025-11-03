@@ -74,7 +74,7 @@ Open the app at the address Vite prints (typically http://localhost:5173 or http
 If you'd like to contribute, open an issue or a PR with a short description of your change. Keep changes focused and add small tests when possible.
 
 ## License
-See the repository license (if any). If you don't have one yet, consider adding an OSI-approved license such as MIT.
+There is no license.
 
 ---
 
